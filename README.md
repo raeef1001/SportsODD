@@ -21,6 +21,10 @@ This is a Next.js project that displays sports match betting odds data. It is a 
   - Bookmakers with stopped betting are marked with a `Stopped` badge.
   - Odd values greater than `2.00` are highlighted with a distinct green color for better visibility.
 
+## Demo
+
+![Demo Video](task1.mp4)
+
 ## Utility Functions
 
 ### 1. `formatDate`
